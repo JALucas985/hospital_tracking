@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">975ad2b9c7c79550bbb3c1f246406ad2</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-09 16:46:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>535ad2b988c79550dc12e7fa70d3b0d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ux_page_property_535ad2b988c79550dc12e7fa70d3b0d5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:46:24</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_886892_hospital.975ad2b9c7c79550bbb3c1f246406ad2.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sys_ux_page_property_535ad2b988c79550dc12e7fa70d3b0d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">975ad2b9c7c79550bbb3c1f246406ad2</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2022-11-09 16:46:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>535ad2b988c79550dc12e7fa70d3b0d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sys_ux_page_property_535ad2b988c79550dc12e7fa70d3b0d5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-11-09 16:46:24</sys_updated_on><type>json</type><unique_name>x_886892_hospital.975ad2b9c7c79550bbb3c1f246406ad2.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>337749577</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source>1a3b7bf3872111100277a9f83cbb3594</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-02 15:23:14</sys_created_on>
+        <sys_id>013d967d87c795500277a9f83cbb35a0</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>182fecc8ad00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>cd3d967dacc7955073b46f1c144f779f</update_guid>
+        <update_guid_history>cd3d967dacc7955073b46f1c144f779f:337749577</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 16:58:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>a61a8d0883d24494a3c27ed1d11a5490</sys_id>
+        <sys_metadata>535ad2b988c79550dc12e7fa70d3b0d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_535ad2b988c79550dc12e7fa70d3b0d5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_535ad2b988c79550dc12e7fa70d3b0d5">013d967d87c795500277a9f83cbb35a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:58:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

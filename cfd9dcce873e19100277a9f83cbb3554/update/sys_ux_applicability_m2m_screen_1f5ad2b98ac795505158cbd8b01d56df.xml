@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">9f5ad2b9b7c79550ab0a52707e84a3e4</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">9b5ad2b9efc795502f260c7ec7abe3df</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-09 16:46:24</sys_created_on>
+        <sys_id>1f5ad2b98ac795505158cbd8b01d56df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_1f5ad2b98ac795505158cbd8b01d56df</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:46:24</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

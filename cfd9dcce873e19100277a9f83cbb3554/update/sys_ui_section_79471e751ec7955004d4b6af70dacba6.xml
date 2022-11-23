@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="79471e751ec7955004d4b6af70dacba6" sys_domain="global" table="sysapproval_approver" version="3" view="2_custom_portal_approval_x_886892_hospital">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-09 16:32:55</sys_created_on>
+            <sys_id>bd471e7544c79550ec98d93ea15c90a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="3d471e7534c7955023e84dd0ecc956a6">79471e751ec7955004d4b6af70dacba6</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-11-09 16:32:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-09 16:32:55</sys_created_on>
+            <sys_id>31471e75b7c795504b4230f6186ad4a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="3d471e7534c7955023e84dd0ecc956a6">79471e751ec7955004d4b6af70dacba6</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-11-09 16:32:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2022-11-09 16:32:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79471e751ec7955004d4b6af70dacba6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+            <sys_update_name>sys_ui_section_79471e751ec7955004d4b6af70dacba6</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2022-11-09 16:32:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="2_custom_portal_approval_x_886892_hospital" name="2_custom_portal_approval_x_886892_hospital">3d471e7534c7955023e84dd0ecc956a6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

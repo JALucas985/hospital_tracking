@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">39471e7575c7955025543fddfc0dcaa6</macroponent>
+        <name>Launch approve alert </name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+       const modal_payload = {
+            "modalId": "[component-id$='alert_1']",
+            "showModal": true,
+            "displayOptions": null
+        };
+        const OPEN_MODAL = 'MODAL_SELECTED';
+        api.emit(OPEN_MODAL, modal_payload);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-09 16:32:59</sys_created_on>
+        <sys_id>31471e75e7c79550c9efb3bc824e5a96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launch approve alert</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ux_client_script_31471e75e7c79550c9efb3bc824e5a96</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:32:59</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

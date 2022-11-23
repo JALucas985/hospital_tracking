@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">670662b5870b95500277a9f83cbb356e</sp_column>
+        <sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:37:28</sys_created_on>
+        <sys_id>670662b5870b95500277a9f83cbb3570</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Surveys</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_670662b5870b95500277a9f83cbb3570</sys_update_name>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:42:34</sys_updated_on>
+        <title>My Surveys</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=670662b5870b95500277a9f83cbb3570"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_670662b5870b95500277a9f83cbb3570</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">670662b5870b95500277a9f83cbb356e</sp_column><sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 17:37:28</sys_created_on><sys_id>670662b5870b95500277a9f83cbb3570</sys_id><sys_mod_count>3</sys_mod_count><sys_name>My Surveys</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_instance_670662b5870b95500277a9f83cbb3570</sys_update_name><sys_updated_by>rodrigo.alvarez</sys_updated_by><sys_updated_on>2022-11-14 16:42:34</sys_updated_on><title>My Surveys</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=670662b5870b95500277a9f83cbb3570"/></record_update>]]></payload>
+        <payload_hash>2096883214</payload_hash>
+        <record_name>My Surveys</record_name>
+        <reverted_from/>
+        <source>cbd9dcce873e19100277a9f83cbb3556</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rodrigo.alvarez</sys_created_by>
+        <sys_created_on>2022-11-14 16:42:34</sys_created_on>
+        <sys_id>1479c4ab87831d500277a9f83cbb3549</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18477056b910000001</sys_recorded_at>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:42:34</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5c79c4ab8b831d5029c6ab88d60adb48</update_guid>
+        <update_guid_history>5c79c4ab8b831d5029c6ab88d60adb48:2096883214,0b6984ab1e831d50c1c8b843146ba5cd:804813805,77fc456e914f1950f65a1fa7a2aece6e:2096883214,eb0662b5670b95504c505eac15cd6971:804813805</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Surveys">f4a92bd4875bdd500277a9f83cbb35e8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 16:57:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0e0e4f1677cf41e48115cc6199f45d10</sys_id>
+        <sys_metadata>670662b5870b95500277a9f83cbb3570</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Surveys</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_670662b5870b95500277a9f83cbb3570</sys_update_name>
+        <sys_update_version display_value="sp_instance_670662b5870b95500277a9f83cbb3570">1479c4ab87831d500277a9f83cbb3549</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 16:57:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

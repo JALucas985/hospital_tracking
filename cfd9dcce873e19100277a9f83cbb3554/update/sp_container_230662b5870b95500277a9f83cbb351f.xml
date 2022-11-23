@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Home Page Hospital - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="index_hospital">1b066275870b95500277a9f83cbb35ae</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:37:28</sys_created_on>
+        <sys_id>230662b5870b95500277a9f83cbb351f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home Page Hospital - Container 3</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_container_230662b5870b95500277a9f83cbb351f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:38:21</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+</record_update>

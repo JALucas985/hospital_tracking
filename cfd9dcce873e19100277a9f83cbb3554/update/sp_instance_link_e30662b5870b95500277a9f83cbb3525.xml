@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>hospital-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Schedule an appointment with one of our Doctors</short_description>
+        <size>md</size>
+        <sp_column display_value="1">630662b5870b95500277a9f83cbb3523</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:37:28</sys_created_on>
+        <sys_id>e30662b5870b95500277a9f83cbb3525</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Make an appointment</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_link_e30662b5870b95500277a9f83cbb3525</sys_update_name>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:26:54</sys_updated_on>
+        <title>Make an appointment</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=e30662b5870b95500277a9f83cbb3525"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">975ad2b99bc7955076fcd93f7443bfda</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">1f5ad2b92cc79550539b1a50ad1a99d9</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-09 16:46:26</sys_created_on>
+        <sys_id>575ad2b95cc79550f7b242ee32c95dd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_575ad2b95cc79550f7b242ee32c95dd9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-09 16:46:26</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

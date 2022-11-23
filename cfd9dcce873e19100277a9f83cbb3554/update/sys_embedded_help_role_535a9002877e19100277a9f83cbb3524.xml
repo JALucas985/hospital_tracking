@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_886892_hospital.project_admin" name="x_886892_hospital.project_admin">d35a9002877e19100277a9f83cbb3523</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rodrigo.alvarez</sys_created_by>
+        <sys_created_on>2022-10-28 15:49:55</sys_created_on>
+        <sys_id>535a9002877e19100277a9f83cbb3524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d35a9002877e19100277a9f83cbb3523</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_embedded_help_role_535a9002877e19100277a9f83cbb3524</sys_update_name>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-10-28 15:49:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

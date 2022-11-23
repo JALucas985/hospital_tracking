@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph>book</glyph>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Knowledge</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="kb_view_hospital">aa84e635870b95500277a9f83cbb358b</sp_page>
+        <sp_rectangle_menu display_value="Hospital Menu">7ce4f284871b9d500277a9f83cbb3549</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 16:08:03</sys_created_on>
+        <sys_id>542d1f1c871bdd500277a9f83cbb359f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_542d1f1c871bdd500277a9f83cbb359f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 16:08:03</sys_updated_on>
+        <table/>
+        <type>page</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=542d1f1c871bdd500277a9f83cbb359f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_rectangle_menu_item_542d1f1c871bdd500277a9f83cbb359f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph>book</glyph><hint/><kb_article/><kb_category/><kb_topic/><label>Knowledge</label><order>100</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page display_value="kb_view_hospital">aa84e635870b95500277a9f83cbb358b</sp_page><sp_rectangle_menu display_value="Hospital Menu">7ce4f284871b9d500277a9f83cbb3549</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-17 16:08:03</sys_created_on><sys_id>542d1f1c871bdd500277a9f83cbb359f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Knowledge</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_rectangle_menu_item_542d1f1c871bdd500277a9f83cbb359f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-17 16:08:03</sys_updated_on><table/><type>page</type><url/><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=542d1f1c871bdd500277a9f83cbb359f"/></record_update>]]></payload>
+        <payload_hash>-223154168</payload_hash>
+        <record_name>Knowledge</record_name>
+        <reverted_from/>
+        <source>cbd9dcce873e19100277a9f83cbb3556</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 16:08:03</sys_created_on>
+        <sys_id>f34e1b5c871bdd500277a9f83cbb3584</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848658e45d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 16:08:03</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>3f4e1b5cdc1bdd5012d202ed6947a383</update_guid>
+        <update_guid_history>3f4e1b5cdc1bdd5012d202ed6947a383:-223154168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Knowledge">a09f13dc871bdd500277a9f83cbb3527</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 16:13:34</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>17893270c7964fa0be74b3f9a6643310</sys_id>
+        <sys_metadata>542d1f1c871bdd500277a9f83cbb359f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_542d1f1c871bdd500277a9f83cbb359f</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_542d1f1c871bdd500277a9f83cbb359f">f34e1b5c871bdd500277a9f83cbb3584</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 16:13:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

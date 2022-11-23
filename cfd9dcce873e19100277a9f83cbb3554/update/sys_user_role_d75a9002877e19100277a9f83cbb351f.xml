@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_886892_hospital.project_receptionist</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_886892_hospital.project_receptionist</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>rodrigo.alvarez</sys_created_by>
+        <sys_created_on>2022-10-28 15:49:55</sys_created_on>
+        <sys_id>d75a9002877e19100277a9f83cbb351f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_886892_hospital.project_receptionist</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_user_role_d75a9002877e19100277a9f83cbb351f</sys_update_name>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-10-28 15:49:55</sys_updated_on>
+    </sys_user_role>
+</record_update>

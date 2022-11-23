@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph>user-md</glyph>
+        <id/>
+        <order>2</order>
+        <placeholder>Holiwis</placeholder>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description>by Jorge, Lamas, Emilio y Rodrigo</short_description>
+        <size>lg</size>
+        <sp_column display_value="1">eb0662b5870b95500277a9f83cbb3512</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:37:27</sys_created_on>
+        <sys_id>6f0662b5870b95500277a9f83cbb3514</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Le Hospitale</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_ais_6f0662b5870b95500277a9f83cbb3514</sys_update_name>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:45:03</sys_updated_on>
+        <title>Le Hospitale</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=6f0662b5870b95500277a9f83cbb3514"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_ais_6f0662b5870b95500277a9f83cbb3514</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_ais"&gt;&lt;sp_instance_ais action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;ai_search_source_filter/&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;disable_all_suggestions&gt;false&lt;/disable_all_suggestions&gt;&lt;glyph&gt;user-md&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;placeholder&gt;Holiwis&lt;/placeholder&gt;&lt;roles/&gt;&lt;search_application/&gt;&lt;search_results_configuration/&gt;&lt;short_description&gt;by Jorge, Lamas, Emilio y Rodrigo&lt;/short_description&gt;&lt;size&gt;lg&lt;/size&gt;&lt;sp_column display_value="1"&gt;eb0662b5870b95500277a9f83cbb3512&lt;/sp_column&gt;&lt;sp_widget display_value="Homepage Search"&gt;200fbd96cb20020000f8d856634c9ca1&lt;/sp_widget&gt;&lt;spell_check_font_size&gt;xl&lt;/spell_check_font_size&gt;&lt;sys_class_name&gt;sp_instance_ais&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-09 17:37:27&lt;/sys_created_on&gt;&lt;sys_id&gt;6f0662b5870b95500277a9f83cbb3514&lt;/sys_id&gt;&lt;sys_mod_count&gt;20&lt;/sys_mod_count&gt;&lt;sys_name&gt;Le Hospitale&lt;/sys_name&gt;&lt;sys_package display_value="Hospital_Project" source="x_886892_hospital"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hospital_Project"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ais_6f0662b5870b95500277a9f83cbb3514&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jorge.lucas&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-14 16:45:03&lt;/sys_updated_on&gt;&lt;title&gt;Le Hospitale&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_ais&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=6f0662b5870b95500277a9f83cbb3514"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1648876209</payload_hash>
+        <record_name>Le Hospitale</record_name>
+        <reverted_from/>
+        <source>cbd9dcce873e19100277a9f83cbb3556</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2022-11-14 16:45:03</sys_created_on>
+        <sys_id>a80a00eb87831d500277a9f83cbb354e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847707b1cf0000001</sys_recorded_at>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:45:03</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>e00a00eb0a831d509b79582d0b72154e</update_guid>
+        <update_guid_history>e00a00eb0a831d509b79582d0b72154e:1648876209,6b79c0ab22831d50cf6c3fdff0d009d2:-2051590318,0479c4ab12831d5041b58efd8b47cf3e:107595774,c76984ab80831d50d191a0151f6a8cc9:1637063339,a75984ab91831d50b6e73047b26b0e12:107595774,9d5944ab84831d50d39b3dcd0c74e066:-801109150,aaffbb13cc831d50a243c1d8f5b6cf9a:107595774,c0ff3b13f4831d505a5086ffc4caab24:-1388500800,f36fffdff6431d50d9b19f15ab4a58c9:107595774,193f09eeec4f195082d905ffec0f0a54:1878549240,b22f0daeec4f1950d8014da7bcd6ee51:753694714,25fe81eee64f19504a64df156a4d8a9b:204759463,967d816ea74f195081d5ef9e86573410:753694714,2e6d016e5a4f1950a3995e1e13e895ea:-128821254,e3fc416e114f1950e452db0b2c680c79:1842691514,a32b49aa844f195015f9c1fe90722952:264937883,241b41ea694f1950f689e0df116e5b36:-1725543114,3dba49aaa44f19502710b9f8ea891a7d:-289737700,171acfc6c30bd5500cb4acddb6d6ee5b:1151699370,bb09e6794d0b95509eeb9f525f3d5d61:-1825077508,a30662b5bc0b95500dae33939c967016:-1142510876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Le Hospitale">da7a40eb87831d500277a9f83cbb3594</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2022-11-14 16:47:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>2a0fc5bda69746bfa8d1c10cfd1759d9</sys_id>
+        <sys_metadata>6f0662b5870b95500277a9f83cbb3514</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Le Hospitale</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_6f0662b5870b95500277a9f83cbb3514</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_6f0662b5870b95500277a9f83cbb3514">a80a00eb87831d500277a9f83cbb354e</sys_update_version>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-11-14 16:47:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Specialities Hospital">88eedce8871fdd500277a9f83cbb35f2</application>
+        <filter/>
+        <name>Specialities Hospitals</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_886892_hospital.specialities_hospital_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>emilio.rubio</sys_created_by>
+        <sys_created_on>2022-11-17 20:50:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84eedce8871fdd500277a9f83cbb35f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specialities Hospitals</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ui_module_84eedce8871fdd500277a9f83cbb35f5</sys_update_name>
+        <sys_updated_by>emilio.rubio</sys_updated_by>
+        <sys_updated_on>2022-11-17 20:50:08</sys_updated_on>
+        <table>x_886892_hospital_specialities_hospital</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
