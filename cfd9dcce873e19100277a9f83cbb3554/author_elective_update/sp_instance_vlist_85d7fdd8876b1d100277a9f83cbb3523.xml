@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>name</display_field>
+        <field_list/>
+        <filter/>
+        <glyph>th-list</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by>sys_updated_on</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>sm</size>
+        <sp_column display_value="3">45d7fdd8876b1d100277a9f83cbb3521</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:55:59</sys_created_on>
+        <sys_id>85d7fdd8876b1d100277a9f83cbb3523</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specialities</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_vlist_85d7fdd8876b1d100277a9f83cbb3523</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:55:59</sys_updated_on>
+        <table>x_886892_hospital_specialities_hospital</table>
+        <title>Specialities</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"displayValue": "true",
+		"value": "true"
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "description",
+		"displayValue": "description"
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "b574e51147132100ba13a5554ee4903e",
+		"displayValue": "list"
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=85d7fdd8876b1d100277a9f83cbb3523"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_vlist_85d7fdd8876b1d100277a9f83cbb3523</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;name&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph&gt;th-list&lt;/glyph&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;1&lt;/order&gt;&lt;order_by&gt;sys_updated_on&lt;/order_by&gt;&lt;order_direction&gt;desc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;sm&lt;/size&gt;&lt;sp_column display_value="3"&gt;45d7fdd8876b1d100277a9f83cbb3521&lt;/sp_column&gt;&lt;sp_page display_value="form"&gt;ed5f8ec347730200ba13a5554ee49046&lt;/sp_page&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-29 18:55:59&lt;/sys_created_on&gt;&lt;sys_id&gt;85d7fdd8876b1d100277a9f83cbb3523&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Specialities&lt;/sys_name&gt;&lt;sys_package display_value="Hospital_Project" source="x_886892_hospital"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hospital_Project"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_85d7fdd8876b1d100277a9f83cbb3523&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-29 18:55:59&lt;/sys_updated_on&gt;&lt;table&gt;x_886892_hospital_specialities_hospital&lt;/table&gt;&lt;title&gt;Specialities&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"displayValue": "true",
+		"value": "true"
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "description",
+		"displayValue": "description"
+	},
+	"panel_body_height": {
+		"value": null,
+		"displayValue": ""
+	},
+	"rounded_images": {
+		"displayValue": true,
+		"value": true
+	},
+	"list_page": {
+		"value": "b574e51147132100ba13a5554ee4903e",
+		"displayValue": "list"
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	},
+	"filter_acls": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=85d7fdd8876b1d100277a9f83cbb3523"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>85369709</payload_hash>
+        <record_name>Specialities</record_name>
+        <reverted_from/>
+        <source>227201cb871319100277a9f83cbb35e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:55:59</sys_created_on>
+        <sys_id>cdd7fdd8876b1d100277a9f83cbb3525</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c4bef5510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:55:59</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>09d7fdd88d6b1d107335c7a2e2602825</update_guid>
+        <update_guid_history>09d7fdd88d6b1d107335c7a2e2602825:85369709</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Specialities">3309b15c876b1d100277a9f83cbb3585</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:01:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>19a865ad0bac4b148f59cf9bda131ee4</sys_id>
+        <sys_metadata>85d7fdd8876b1d100277a9f83cbb3523</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Specialities</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_85d7fdd8876b1d100277a9f83cbb3523</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_85d7fdd8876b1d100277a9f83cbb3523">cdd7fdd8876b1d100277a9f83cbb3525</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:01:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

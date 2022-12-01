@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color>#ffffff</background_color>
+        <background_image/>
+        <background_style>repeat</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>padding-top-lg</class_name>
+        <container_class_name/>
+        <name>hospital_especialities - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="copy_of_index_hospital_1">17c735d8876b1d100277a9f83cbb35f0</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:55:59</sys_created_on>
+        <sys_id>78d7fdd8876b1d100277a9f83cbb3512</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>hospital_especialities - Container 4</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_container_78d7fdd8876b1d100277a9f83cbb3512</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:57:08</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_container_78d7fdd8876b1d100277a9f83cbb3512</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color>#ffffff</background_color><background_image/><background_style>repeat</background_style><bootstrap_alt>false</bootstrap_alt><class_name>padding-top-lg</class_name><container_class_name/><name>hospital_especialities - Container 4</name><order>4</order><sp_page display_value="copy_of_index_hospital_1">17c735d8876b1d100277a9f83cbb35f0</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-29 18:55:59</sys_created_on><sys_id>78d7fdd8876b1d100277a9f83cbb3512</sys_id><sys_mod_count>1</sys_mod_count><sys_name>hospital_especialities - Container 4</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_container_78d7fdd8876b1d100277a9f83cbb3512</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-29 18:57:08</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1012717508</payload_hash>
+        <record_name>hospital_especialities - Container 4</record_name>
+        <reverted_from/>
+        <source>227201cb871319100277a9f83cbb35e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:57:08</sys_created_on>
+        <sys_id>b918f9d0876b1d100277a9f83cbb352f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c4c001170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:57:08</sys_updated_on>
+        <type>Container</type>
+        <update_guid>7118f9d0ab6b1d1047f5488ed76fca2f</update_guid>
+        <update_guid_history>7118f9d0ab6b1d1047f5488ed76fca2f:-1012717508,8dd7fdd8c76b1d109e2418007a1d4613:-194947758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="hospital_especialities - Container 4">3b09b15c876b1d100277a9f83cbb359c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:01:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>2caa40a5302a4f2eaa52eb378b34bc64</sys_id>
+        <sys_metadata>78d7fdd8876b1d100277a9f83cbb3512</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hospital_especialities - Container 4</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_container_78d7fdd8876b1d100277a9f83cbb3512</sys_update_name>
+        <sys_update_version display_value="sp_container_78d7fdd8876b1d100277a9f83cbb3512">b918f9d0876b1d100277a9f83cbb352f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:01:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>4</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ef0662b5870b95500277a9f83cbb3565</sp_column>
+        <sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 17:02:20</sys_created_on>
+        <sys_id>d63454c087a7d9100277a9f83cbb35d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_d63454c087a7d9100277a9f83cbb35d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 17:02:20</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d63454c087a7d9100277a9f83cbb35d8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_d63454c087a7d9100277a9f83cbb35d8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>4</order><roles/><short_description/><size>md</size><sp_column display_value="1">ef0662b5870b95500277a9f83cbb3565</sp_column><sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-28 17:02:20</sys_created_on><sys_id>d63454c087a7d9100277a9f83cbb35d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_instance_d63454c087a7d9100277a9f83cbb35d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-28 17:02:20</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=d63454c087a7d9100277a9f83cbb35d8"/></record_update>]]></payload>
+        <payload_hash>-1752219982</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>227201cb871319100277a9f83cbb35e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 17:02:20</sys_created_on>
+        <sys_id>963454c087a7d9100277a9f83cbb35da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184bf308c3d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 17:02:20</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>de3454c061a7d9106464842be26346d9</update_guid>
+        <update_guid_history>de3454c061a7d9106464842be26346d9:-1752219982</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9044108087a7d9100277a9f83cbb3523</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-28 17:02:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>594fb499c68344909bdc1b73edac3840</sys_id>
+        <sys_metadata>d63454c087a7d9100277a9f83cbb35d8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_d63454c087a7d9100277a9f83cbb35d8</sys_update_name>
+        <sys_update_version display_value="sp_instance_d63454c087a7d9100277a9f83cbb35d8">963454c087a7d9100277a9f83cbb35da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-28 17:02:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

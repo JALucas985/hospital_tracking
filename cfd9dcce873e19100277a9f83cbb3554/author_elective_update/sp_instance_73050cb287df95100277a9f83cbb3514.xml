@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">670662b5870b95500277a9f83cbb356e</sp_column>
+        <sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 18:43:40</sys_created_on>
+        <sys_id>73050cb287df95100277a9f83cbb3514</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_73050cb287df95100277a9f83cbb3514</sys_update_name>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-24 20:41:32</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"items_per_page": {
+		"value": 5,
+		"displayValue": "5"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=73050cb287df95100277a9f83cbb3514"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_73050cb287df95100277a9f83cbb3514</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;670662b5870b95500277a9f83cbb356e&lt;/sp_column&gt;&lt;sp_widget display_value="My Requests"&gt;8cc0df25875023000f220cf888cb0bb5&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-24 18:43:40&lt;/sys_created_on&gt;&lt;sys_id&gt;73050cb287df95100277a9f83cbb3514&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Hospital_Project" source="x_886892_hospital"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hospital_Project"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_73050cb287df95100277a9f83cbb3514&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rodrigo.alvarez&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-24 20:41:32&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"items_per_page": {
+		"value": 5,
+		"displayValue": "5"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=73050cb287df95100277a9f83cbb3514"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>100346379</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ade6c03687df95100277a9f83cbb3599</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>rodrigo.alvarez</sys_created_by>
+        <sys_created_on>2022-11-24 20:41:32</sys_created_on>
+        <sys_id>5200a43e8713d5100277a9f83cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184ab5fc9560000001</sys_recorded_at>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-24 20:41:32</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5a00a43ef113d51075984f811ea53539</update_guid>
+        <update_guid_history>5a00a43ef113d51075984f811ea53539:100346379,a2ff98fa7413d510fab79c3368c92ebd:-1540558228,c175c8b2b3df95102961280d32e0fecc:100346379,6aa6483682df95102839ac73ba38f088:396921495,c175c8b2b3df95102961280d32e0fecc:100346379,7b050cb282df951069ddd909cd8c9615:-933549245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e636504487a7d9100277a9f83cbb35ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>rodrigo.alvarez</sys_created_by>
+        <sys_created_on>2022-11-28 17:11:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>8e849ba84724472095db4d6246040944</sys_id>
+        <sys_metadata>73050cb287df95100277a9f83cbb3514</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_73050cb287df95100277a9f83cbb3514</sys_update_name>
+        <sys_update_version display_value="sp_instance_73050cb287df95100277a9f83cbb3514">5200a43e8713d5100277a9f83cbb353a</sys_update_version>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-28 17:11:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

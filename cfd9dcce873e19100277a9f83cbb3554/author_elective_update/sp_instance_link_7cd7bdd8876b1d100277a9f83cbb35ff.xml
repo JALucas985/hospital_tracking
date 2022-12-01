@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>plus-circle</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse and search for articles, rate or submit feedback</short_description>
+        <size>md</size>
+        <sp_column display_value="2">3cd7bdd8876b1d100277a9f83cbb35fd</sp_column>
+        <sp_page display_value="kb_view_hospital">aa84e635870b95500277a9f83cbb358b</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:55:59</sys_created_on>
+        <sys_id>7cd7bdd8876b1d100277a9f83cbb35ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medical Articles</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_link_7cd7bdd8876b1d100277a9f83cbb35ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:55:59</sys_updated_on>
+        <title>Medical Articles</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=7cd7bdd8876b1d100277a9f83cbb35ff"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_link_7cd7bdd8876b1d100277a9f83cbb35ff</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;plus-circle&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Browse and search for articles, rate or submit feedback&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;3cd7bdd8876b1d100277a9f83cbb35fd&lt;/sp_column&gt;&lt;sp_page display_value="kb_view_hospital"&gt;aa84e635870b95500277a9f83cbb358b&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-29 18:55:59&lt;/sys_created_on&gt;&lt;sys_id&gt;7cd7bdd8876b1d100277a9f83cbb35ff&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Medical Articles&lt;/sys_name&gt;&lt;sys_package display_value="Hospital_Project" source="x_886892_hospital"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hospital_Project"&gt;cfd9dcce873e19100277a9f83cbb3554&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_7cd7bdd8876b1d100277a9f83cbb35ff&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-29 18:55:59&lt;/sys_updated_on&gt;&lt;title&gt;Medical Articles&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7cd7bdd8876b1d100277a9f83cbb35ff"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-502812621</payload_hash>
+        <record_name>Medical Articles</record_name>
+        <reverted_from/>
+        <source>227201cb871319100277a9f83cbb35e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 18:55:59</sys_created_on>
+        <sys_id>78d7fdd8876b1d100277a9f83cbb3501</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c4bef4120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 18:55:59</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>b0d7fdd84a6b1d10e98f2839381fd101</update_guid>
+        <update_guid_history>b0d7fdd84a6b1d10e98f2839381fd101:-502812621</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Medical Articles">688af59c876b1d100277a9f83cbb357d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:07:42</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>29b711f4671548c890ec9888e929e5e1</sys_id>
+        <sys_metadata>7cd7bdd8876b1d100277a9f83cbb35ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medical Articles</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_7cd7bdd8876b1d100277a9f83cbb35ff</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_7cd7bdd8876b1d100277a9f83cbb35ff">78d7fdd8876b1d100277a9f83cbb3501</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:07:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

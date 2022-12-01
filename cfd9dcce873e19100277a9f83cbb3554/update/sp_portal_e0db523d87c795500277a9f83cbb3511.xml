@@ -44,14 +44,14 @@ $text-muted:#81878e;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-09 17:07:58</sys_created_on>
         <sys_id>e0db523d87c795500277a9f83cbb3511</sys_id>
-        <sys_mod_count>71</sys_mod_count>
+        <sys_mod_count>74</sys_mod_count>
         <sys_name>Hospital</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_portal_e0db523d87c795500277a9f83cbb3511</sys_update_name>
-        <sys_updated_by>jorge.lucas</sys_updated_by>
-        <sys_updated_on>2022-11-17 16:28:12</sys_updated_on>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2022-11-24 20:35:19</sys_updated_on>
         <theme display_value="HRM Theme">9b65ab7c73131300c629e1e54cf6a754</theme>
         <title>Hospital</title>
         <ts_index_group/>
