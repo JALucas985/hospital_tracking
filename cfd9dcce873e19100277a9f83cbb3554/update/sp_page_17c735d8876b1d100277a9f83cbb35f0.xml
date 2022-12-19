@@ -10,7 +10,7 @@ section.page, main.body {
 </css>
         <draft>false</draft>
         <dynamic_title_structure/>
-        <id>hospital_especialities</id>
+        <id>hospital_specialities</id>
         <internal>false</internal>
         <omit_watcher>false</omit_watcher>
         <public>false</public>
@@ -21,15 +21,15 @@ section.page, main.body {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 18:55:52</sys_created_on>
         <sys_id>17c735d8876b1d100277a9f83cbb35f0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>hospital_especialities</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>hospital_specialities</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_page_17c735d8876b1d100277a9f83cbb35f0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-29 18:57:08</sys_updated_on>
-        <title>hospital_especialities</title>
+        <sys_updated_on>2022-12-07 15:55:17</sys_updated_on>
+        <title>Hospital Specialites</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=17c735d8876b1d100277a9f83cbb35f0"/>

@@ -6,22 +6,22 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name>visible-xs</class_name>
         <container_class_name/>
-        <name>hospital_especialities - Container 2</name>
+        <name>Hospital Specialites - Container 2</name>
         <order>2</order>
-        <sp_page display_value="hospital_especialities">17c735d8876b1d100277a9f83cbb35f0</sp_page>
+        <sp_page display_value="hospital_specialities">17c735d8876b1d100277a9f83cbb35f0</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 18:55:59</sys_created_on>
         <sys_id>38d7bdd8876b1d100277a9f83cbb35ec</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>hospital_especialities - Container 2</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Hospital Specialites - Container 2</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_container_38d7bdd8876b1d100277a9f83cbb35ec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-29 18:57:08</sys_updated_on>
+        <sys_updated_on>2022-12-07 15:55:17</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>
