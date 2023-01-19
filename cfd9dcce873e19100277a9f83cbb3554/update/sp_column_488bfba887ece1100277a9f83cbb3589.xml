@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <size>3</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="6">888bfba887ece1100277a9f83cbb3584</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-19 16:12:33</sys_created_on>
+        <sys_id>488bfba887ece1100277a9f83cbb3589</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_column_488bfba887ece1100277a9f83cbb3589</sys_update_name>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-19 16:12:33</sys_updated_on>
+    </sp_column>
+</record_update>

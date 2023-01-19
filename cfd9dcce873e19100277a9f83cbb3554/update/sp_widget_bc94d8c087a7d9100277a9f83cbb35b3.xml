@@ -162,7 +162,7 @@
 }]]></link>
         <name>Hospital My Requests</name>
         <option_schema>[{"name":"title","section":"Presentation","default_value":"My Requests","label":"Title","type":"string"},{"name":"show_view","section":"Behavior","default_value":"true","label":"Show View","type":"boolean"},{"hint":"Number of items per page","name":"items_per_page","section":"Behavior","default_value":"15","label":"Items per page","type":"integer"}]</option_schema>
-        <public>false</public>
+        <public>true</public>
         <roles>snc_internal,snc_external</roles>
         <script><![CDATA[(function() {
 	
@@ -365,14 +365,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-28 17:03:52</sys_created_on>
         <sys_id>bc94d8c087a7d9100277a9f83cbb35b3</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Hospital My Requests</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_widget_bc94d8c087a7d9100277a9f83cbb35b3</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-28 17:15:42</sys_updated_on>
+        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
+        <sys_updated_on>2023-01-19 15:36:43</sys_updated_on>
         <template><![CDATA[<div class="panel panel-default b" ng-init="c.trackPage()">
  <div class="panel-heading" ng-show="::!data.is_associated_ticket_tab">
     <h2 class="panel-title">{{::data.messages.myRequestsTitle}}</h2>

@@ -44,18 +44,19 @@ $text-muted:#81878e;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-09 17:07:58</sys_created_on>
         <sys_id>e0db523d87c795500277a9f83cbb3511</sys_id>
-        <sys_mod_count>74</sys_mod_count>
+        <sys_mod_count>75</sys_mod_count>
         <sys_name>Hospital</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_portal_e0db523d87c795500277a9f83cbb3511</sys_update_name>
-        <sys_updated_by>rodrigo.alvarez</sys_updated_by>
-        <sys_updated_on>2022-11-24 20:35:19</sys_updated_on>
+        <sys_updated_by>emilio.rubio</sys_updated_by>
+        <sys_updated_on>2023-01-18 18:26:41</sys_updated_on>
         <theme display_value="HRM Theme">9b65ab7c73131300c629e1e54cf6a754</theme>
         <title>Hospital</title>
         <ts_index_group/>
         <url_suffix>hospital</url_suffix>
+        <user_registration_config display_value="Hospital External User Registration">a5dd8b94872ca1100277a9f83cbb3567</user_registration_config>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=e0db523d87c795500277a9f83cbb3511"/>
     <sys_attachment action="INSERT_OR_UPDATE">
@@ -63,6 +64,7 @@ $text-muted:#81878e;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>icon</file_name>
         <hash>795f1bca8115636a97af54e3af4e37ef58212b880dca125b3b730cec46dd4353</hash>
         <image_height>418</image_height>
@@ -102,6 +104,7 @@ $text-muted:#81878e;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <hash>795f1bca8115636a97af54e3af4e37ef58212b880dca125b3b730cec46dd4353</hash>
         <image_height>418</image_height>

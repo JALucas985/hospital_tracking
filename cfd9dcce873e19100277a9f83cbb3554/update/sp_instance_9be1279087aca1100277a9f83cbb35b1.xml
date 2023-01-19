@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">7b7ed35c876ca1100277a9f83cbb3549</sp_column>
+        <sp_widget display_value="HTML for hospital">2306435487e8a1100277a9f83cbb35be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-18 19:42:21</sys_created_on>
+        <sys_id>9be1279087aca1100277a9f83cbb35b1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_9be1279087aca1100277a9f83cbb35b1</sys_update_name>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:22:39</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div><div><h2>Transplants</h2></div></div><div><div><p>In current medicine, transplants represent an alternative for various diseases that disable or reduce the function of certain organs.</p><p>This procedure replaces an organ with that of a donor, to integrate it into the organism of the recipient.</p><p>There are a variety of organs or tissues that can be transplanted; being the most common: kidney, heart, pancreas, liver, lung, cornea, intestine, skin, bones and bone marrow.</p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p></div></div>",
+		"displayValue": "<div>\n<div>\n<h2>Transplants</h2>\n</div>\n</div>\n<div>\n<div>\n<p>In current medicine, transplants represent an alternative for various diseases that disable or reduce the function of certain organs.</p>\n<p>This procedure replaces an organ with that of a donor, to integrate it into the organism of the recipient.</p>\n<p>There are a variety of organs or tissues that can be transplanted; being the most common: kidney, heart, pancreas, liver, lung, cornea, intestine, skin, bones and bone marrow.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9be1279087aca1100277a9f83cbb35b1"/>
+</record_update>

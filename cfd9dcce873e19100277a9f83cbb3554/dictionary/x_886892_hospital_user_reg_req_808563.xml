@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user_registration_request" label="Hospital User Reg Req 808563" max_length="40" name="x_886892_hospital_user_reg_req_808563" sizeclass="15" type="collection"/>
+</database>

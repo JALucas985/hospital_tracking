@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column display_value="1">0dca355c876b1d100277a9f83cbb35e8</sp_column>
+        <sp_container/>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-18 19:25:42</sys_created_on>
+        <sys_id>e71e5b1c876ca1100277a9f83cbb35f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_row_e71e5b1c876ca1100277a9f83cbb35f9</sys_update_name>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-18 19:25:42</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_row_e71e5b1c876ca1100277a9f83cbb35f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column display_value="1">0dca355c876b1d100277a9f83cbb35e8</sp_column><sp_container/><sys_class_name>sp_row</sys_class_name><sys_created_by>daniel.lamas</sys_created_by><sys_created_on>2023-01-18 19:25:42</sys_created_on><sys_id>e71e5b1c876ca1100277a9f83cbb35f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_row_e71e5b1c876ca1100277a9f83cbb35f9</sys_update_name><sys_updated_by>daniel.lamas</sys_updated_by><sys_updated_on>2023-01-18 19:25:42</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>2068461954</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>317d1fd8876ca1100277a9f83cbb35be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-18 19:25:42</sys_created_on>
+        <sys_id>a31e5b1c876ca1100277a9f83cbb35fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c65821700000001</sys_recorded_at>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-18 19:25:42</sys_updated_on>
+        <type>Row</type>
+        <update_guid>eb1e5b1cbf6ca110c677228712a416fa</update_guid>
+        <update_guid_history>eb1e5b1cbf6ca110c677228712a416fa:2068461954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">632e1f1c876ca1100277a9f83cbb3548</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-18 19:25:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>5241e29851b249929e61c990a6ce9d39</sys_id>
+        <sys_metadata>e71e5b1c876ca1100277a9f83cbb35f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_row_e71e5b1c876ca1100277a9f83cbb35f9</sys_update_name>
+        <sys_update_version display_value="sp_row_e71e5b1c876ca1100277a9f83cbb35f9">a31e5b1c876ca1100277a9f83cbb35fb</sys_update_version>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-18 19:25:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Patient Form" max_length="40" name="x_886892_hospital_patient_form" sizeclass="3" type="collection">
+        <element attributes="encode_utf8=false" label="Assigned Nurse" max_length="32" name="assigned_nurse" reference="sys_user" reference_qual="roles=x_886892_hospital.project_nurse^EQ" reference_qual_condition="roles=x_886892_hospital.project_nurse^EQ" type="reference"/>
+        <element attributes="encode_utf8=false" label="Patient" max_length="32" name="patient" reference="sys_user" reference_qual="roles=x_886892_hospital.project_patient^EQ" reference_qual_condition="roles=x_886892_hospital.project_patient^EQ" type="reference"/>
+        <element attributes="encode_utf8=false" label="Speciality" max_length="32" name="speciality" reference="sys_user_group" reference_qual="roles=x_886892_hospital.project_doctor^name!=hospital_doctors^EQ" reference_qual_condition="roles=x_886892_hospital.project_doctor^name!=hospital_doctors^EQ" type="reference"/>
+    </element>
+</database>

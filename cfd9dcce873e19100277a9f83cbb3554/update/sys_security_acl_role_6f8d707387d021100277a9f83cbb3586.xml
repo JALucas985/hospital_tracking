@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-16 18:27:14</sys_created_on>
+        <sys_id>6f8d707387d021100277a9f83cbb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_886892_hospital_patient_form.x_886892_hospital.patient_form_user</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_security_acl display_value="x_886892_hospital_patient_form">2b8d707387d021100277a9f83cbb3583</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6f8d707387d021100277a9f83cbb3586</sys_update_name>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2023-01-16 18:27:14</sys_updated_on>
+        <sys_user_role display_value="x_886892_hospital.patient_form_user" name="x_886892_hospital.patient_form_user">938d78ff879021100277a9f83cbb35d8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

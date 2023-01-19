@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_886892_hospital_patient_form" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_886892_hospital_patient_form</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>emilio.rubio</sys_created_by>
+            <sys_created_on>2023-01-17 16:30:40</sys_created_on>
+            <sys_id>f17c2dc4876461100277a9f83cbb3504</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+            <sys_update_name>sys_choice_x_886892_hospital_patient_form_priority</sys_update_name>
+            <sys_updated_by>emilio.rubio</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:30:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>x_886892_hospital_patient_form</name>
+            <sequence>0</sequence>
+            <synonyms>p1,p1s,p1's</synonyms>
+            <sys_created_by>emilio.rubio</sys_created_by>
+            <sys_created_on>2023-01-17 16:30:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7c2dc4876461100277a9f83cbb3503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emilio.rubio</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:30:40</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>x_886892_hospital_patient_form</name>
+            <sequence>1</sequence>
+            <synonyms>p2,p2s,p2's</synonyms>
+            <sys_created_by>emilio.rubio</sys_created_by>
+            <sys_created_on>2023-01-17 16:30:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7c2dc4876461100277a9f83cbb3508</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emilio.rubio</sys_updated_by>
+            <sys_updated_on>2023-01-17 16:30:40</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>x_886892_hospital_patient_form</name>
+            <sequence>2</sequence>
+            <synonyms>p3,p3s,p3's</synonyms>
+            <sys_created_by>emilio.rubio</sys_created_by>
+            <sys_created_on>2023-01-17 17:06:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ea4314087a461100277a9f83cbb3577</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emilio.rubio</sys_updated_by>
+            <sys_updated_on>2023-01-17 17:06:30</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>x_886892_hospital_patient_form</name>
+            <sequence>3</sequence>
+            <synonyms>p4,p4s,p4's</synonyms>
+            <sys_created_by>emilio.rubio</sys_created_by>
+            <sys_created_on>2023-01-17 17:06:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ea4b98087a461100277a9f83cbb352e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>emilio.rubio</sys_updated_by>
+            <sys_updated_on>2023-01-17 17:06:30</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

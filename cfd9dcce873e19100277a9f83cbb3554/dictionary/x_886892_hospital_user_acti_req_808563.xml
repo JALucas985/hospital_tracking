@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="user_activation_request" label="Hospital User Acti Req 808563" max_length="40" name="x_886892_hospital_user_acti_req_808563" sizeclass="20" type="collection"/>
+</database>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">1d4e9f1c876ca1100277a9f83cbb3511</sp_column>
+        <sp_widget display_value="HTML for hospital">2306435487e8a1100277a9f83cbb35be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>daniel.lamas</sys_created_by>
+        <sys_created_on>2023-01-18 19:41:28</sys_created_on>
+        <sys_id>aab16f5087aca1100277a9f83cbb35b2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_aab16f5087aca1100277a9f83cbb35b2</sys_update_name>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:22:21</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div><div><h2>Obstetrics Gynecology&nbsp;</h2></div></div><div><div><p>It is the field of medicine that specializes in the care of the female reproductive system, as well as the care of pregnancy and childbirth. The gynecologist also specializes in other women’s health issues such as breasts, menopause, contraception, fertility, and hormonal problems.</p><p>A regular consultation and routine examinations are widely recommended for the early detection of irregularities and their timely treatment.</p><p>I am an Iron Woman.</p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p></div></div>",
+		"displayValue": "<div>\n<div>\n<h2>Obstetrics Gynecology&nbsp;</h2>\n</div>\n</div>\n<div>\n<div>\n<p>It is the field of medicine that specializes in the care of the female reproductive system, as well as the care of pregnancy and childbirth. The gynecologist also specializes in other women&rsquo;s health issues such as breasts, menopause, contraception, fertility, and hormonal problems.</p>\n<p>A regular consultation and routine examinations are widely recommended for the early detection of irregularities and their timely treatment.</p>\n<p>I am an Iron Woman.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n</div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=aab16f5087aca1100277a9f83cbb35b2"/>
+</record_update>

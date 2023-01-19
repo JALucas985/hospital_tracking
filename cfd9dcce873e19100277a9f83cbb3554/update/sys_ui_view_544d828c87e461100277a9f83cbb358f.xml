@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_medical_services</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-17 18:53:56</sys_created_on>
+        <sys_id>544d828c87e461100277a9f83cbb358f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medical Services View</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sys_ui_view_544d828c87e461100277a9f83cbb358f</sys_update_name>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2023-01-17 18:53:56</sys_updated_on>
+        <title>Medical Services View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

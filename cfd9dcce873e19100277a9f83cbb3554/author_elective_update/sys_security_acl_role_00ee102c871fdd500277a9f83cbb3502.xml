@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>emilio.rubio</sys_created_by>
+        <sys_created_on>2022-11-17 20:50:09</sys_created_on>
+        <sys_id>00ee102c871fdd500277a9f83cbb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_886892_hospital_specialities_hospital.x_886892_hospital.specialities_hospital_user</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_security_acl display_value="x_886892_hospital_specialities_hospital">08eedce8871fdd500277a9f83cbb35ff</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_00ee102c871fdd500277a9f83cbb3502</sys_update_name>
+        <sys_updated_by>emilio.rubio</sys_updated_by>
+        <sys_updated_on>2022-11-17 20:50:09</sys_updated_on>
+        <sys_user_role display_value="x_886892_hospital.specialities_hospital_user" name="x_886892_hospital.specialities_hospital_user">bbde5ce8871fdd500277a9f83cbb3575</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sys_security_acl_role_00ee102c871fdd500277a9f83cbb3502</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>emilio.rubio</sys_created_by><sys_created_on>2022-11-17 20:50:09</sys_created_on><sys_id>00ee102c871fdd500277a9f83cbb3502</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_886892_hospital_specialities_hospital.x_886892_hospital.specialities_hospital_user</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_security_acl display_value="x_886892_hospital_specialities_hospital">08eedce8871fdd500277a9f83cbb35ff</sys_security_acl><sys_update_name>sys_security_acl_role_00ee102c871fdd500277a9f83cbb3502</sys_update_name><sys_updated_by>emilio.rubio</sys_updated_by><sys_updated_on>2022-11-17 20:50:09</sys_updated_on><sys_user_role display_value="x_886892_hospital.specialities_hospital_user" name="x_886892_hospital.specialities_hospital_user">bbde5ce8871fdd500277a9f83cbb3575</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>809819781</payload_hash>
+        <record_name>x_886892_hospital_specialities_hospital.x_886892_hospital.specialities_hospital_user</record_name>
+        <reverted_from/>
+        <source>cbd9dcce873e19100277a9f83cbb3556</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>emilio.rubio</sys_created_by>
+        <sys_created_on>2022-11-17 20:50:09</sys_created_on>
+        <sys_id>80ee102c871fdd500277a9f83cbb3504</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184875b299a0000001</sys_recorded_at>
+        <sys_updated_by>emilio.rubio</sys_updated_by>
+        <sys_updated_on>2022-11-17 20:50:09</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c8ee102c881fdd508441e195f0453f03</update_guid>
+        <update_guid_history>c8ee102c881fdd508441e195f0453f03:809819781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_886892_hospital_specialities_hospital.x_886892_hospital.specialities_hospital_">0651ffac87ace1100277a9f83cbb35f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-19 15:28:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0d9790e5e34e465d8f575e806d552711</sys_id>
+        <sys_metadata>00ee102c871fdd500277a9f83cbb3502</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_886892_hospital_specialities_hospital.x_886892_hospital.specialities_hospital_user</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent display_value="x_886892_hospital_specialities_hospital">08eedce8871fdd500277a9f83cbb35ff</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_00ee102c871fdd500277a9f83cbb3502</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_00ee102c871fdd500277a9f83cbb3502">80ee102c871fdd500277a9f83cbb3504</sys_update_version>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2023-01-19 15:28:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>400</order>
+        <sc_cat_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-18 21:05:34</sys_created_on>
+        <sys_id>aef4bb9487eca1100277a9f83cbb3598</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>General Data.Appointment Request</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>io_set_item_aef4bb9487eca1100277a9f83cbb3598</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:40</sys_updated_on>
+        <variable_set display_value="General Data">2083f6dc8768a1100277a9f83cbb3578</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>io_set_item_aef4bb9487eca1100277a9f83cbb3598</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>400</order><sc_cat_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>jorge.lucas</sys_created_by><sys_created_on>2023-01-18 21:05:34</sys_created_on><sys_id>aef4bb9487eca1100277a9f83cbb3598</sys_id><sys_mod_count>1</sys_mod_count><sys_name>General Data.Appointment Request</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>io_set_item_aef4bb9487eca1100277a9f83cbb3598</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-01-18 21:08:40</sys_updated_on><variable_set display_value="General Data">2083f6dc8768a1100277a9f83cbb3578</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>123672314</payload_hash>
+        <record_name>General Data.Appointment Request</record_name>
+        <reverted_from/>
+        <source>29a0b4f687b719100277a9f83cbb353e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:08:40</sys_created_on>
+        <sys_id>bfa57fd487eca1100277a9f83cbb35d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c6b664140000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:40</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>37a57fd405eca1107b8587118f1020d7</update_guid>
+        <update_guid_history>37a57fd405eca1107b8587118f1020d7:123672314,eaf4bb94b4eca11047ace71e19bca3aa:-136037841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="General Data.Appointment Request">d0e7fb9887eca1100277a9f83cbb3546</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:18:15</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>95709950144a4cd8a5e425db64313f90</sys_id>
+        <sys_metadata>aef4bb9487eca1100277a9f83cbb3598</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General Data.Appointment Request</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>io_set_item_aef4bb9487eca1100277a9f83cbb3598</sys_update_name>
+        <sys_update_version display_value="io_set_item_aef4bb9487eca1100277a9f83cbb3598">bfa57fd487eca1100277a9f83cbb35d7</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:18:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

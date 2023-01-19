@@ -1,107 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
     <sp_widget action="INSERT_OR_UPDATE">
         <category>standard</category>
-        <client_script><![CDATA[function ($scope, spUtil, $rootScope, $timeout, spAriaUtil, spGtd, $window) {
-	$scope.collapse = function() {
-		$rootScope.$emit('sp-navbar-collapse');
-	}
-	$scope.loadingIndicator = $rootScope.loadingIndicator;
-	$scope.cartItemCount = 0;
-	$scope.wishlistItemCount = 0;
-	$scope.itemAddedTooltipOpen = false;
-	$scope.toursTooltipEnabled = true;
-	$scope.accessibilityEnabled = spAriaUtil.g_accessibility === "true";
-	$scope.$on("$sp.service_catalog.cart.count", function($evt, count) {
-		$scope.cartItemCount = count;
-	});
-	$scope.$on("$sp.service_catalog.wishlist.count", function($evt, count) {
-		$scope.wishlistItemCount = count;
-	});
-	var cancelTooltipPromise;
-	$scope.$on("$sp.service_catalog.cart.add_item", function() {
-		$timeout.cancel(cancelTooltipPromise);
-		$scope.itemAddedTooltipOpen = true;
-		cancelTooltipPromise = $timeout(function() {
-			$scope.itemAddedTooltipOpen = false;
-		}, 3000);
-	});
-	$scope.$on('sp_loading_indicator', function(e, value) {
-		$scope.loadingIndicator = value;
-	});
-	$scope.toggleCart = function() {
-		$timeout.cancel(cancelTooltipPromise);
-		$scope.itemAddedTooltipOpen = false;
-		$timeout(function() {
-			$("#cart-dropdown").dropdown("toggle");
-		});
-	};
-	$scope.toggleTours = function() {
-		var action = $scope.toursTooltipEnabled ? 'disable' : 'enable';
-		$scope.toursTooltipEnabled = $scope.toursTooltipEnabled ? false : true;
-		$('[data-toggle-second="tooltip"]').tooltip(action);
-		if(action == 'disable')
-			$('[data-toggle-second="tooltip"]').tooltip('hide');
-	}
-	$scope.onToursItemBlur = function() {
-		$('[data-toggle-second="tooltip"]').tooltip('enable');
-		$scope.toursTooltipEnabled = true;
-	}
-	// PRB1108244: visibleItems array is used to improve keyboard nav
-	// in menu, refresh it as needed
-	$scope.$watch('data.menu.items', function() {
-		$scope.visibleItems = [];
-		if ($scope.data.menu.items) {
-			for (var i in $scope.data.menu.items) {
-				var item = $scope.data.menu.items[i];
-				if (item.items || (item.scriptedItems && item.scriptedItems.count != 0))
-					$scope.visibleItems.push(item);
-			}
-		}
-	}, true);
-  $scope.$on('sp-menu-update-tours', function(event, tours) {
-    $scope.data.showTours = $scope.data.showTours && !spUtil.isMobile();
-    if ($scope.data.showTours === false) {
-			$scope.data.guidedTours = null;
-			return;
-	}
-    var guidedToursLabel = 'Guided Tours';
-    $scope.data.guidedTours = {
-		label: guidedToursLabel,
-		collection: []
-	};
-    if (tours.length > 0) {
-      $scope.data.guidedTours.collection = tours.map(function(t) {
-        return {
-          title:  t.name,
-          id: t.id,
-          clicked: function() {
-            spGtd.launch(t.id);
-          }
+        <client_script><![CDATA[function($scope, spUtil, $rootScope, $timeout, spAriaUtil, spGtd, $window) {
+        $scope.collapse = function() {
+            $rootScope.$emit('sp-navbar-collapse');
         };
-      });
-    }
-  });
-	// Get list of record watchers
-	var record_watchers = [];
-	if ($scope.data.menu.items) {
-		for(var i in $scope.data.menu.items) {
-			var item = $scope.data.menu.items[i];
-			if (item.type == 'scripted') {
-				if (item.scriptedItems.record_watchers)
-					record_watchers = record_watchers.concat(item.scriptedItems.record_watchers);
-			}
-			if (item.type == 'filtered') {
-				record_watchers.push({'table':item.table,'filter':item.filter});
-			}
-		}
-	}
-	// Init record watchers
-	for (var y in record_watchers){
-		var watcher = record_watchers[y];
-		spUtil.recordWatch($scope, watcher.table, watcher.filter);
-	}
-  $rootScope.$broadcast('sp-header-loaded');
-}]]></client_script>
+        $scope.loadingIndicator = $rootScope.loadingIndicator;
+        $scope.cartItemCount = 0;
+        $scope.wishlistItemCount = 0;
+        $scope.itemAddedTooltipOpen = false;
+        $scope.toursTooltipEnabled = true;
+        $scope.accessibilityEnabled = spAriaUtil.g_accessibility === "true";
+        $scope.$on("$sp.service_catalog.cart.count", function($evt, count) {
+            $scope.cartItemCount = count;
+        });
+        $scope.$on("$sp.service_catalog.wishlist.count", function($evt, count) {
+            $scope.wishlistItemCount = count;
+        });
+        var cancelTooltipPromise;
+        $scope.$on("$sp.service_catalog.cart.add_item", function() {
+            $timeout.cancel(cancelTooltipPromise);
+            $scope.itemAddedTooltipOpen = true;
+            cancelTooltipPromise = $timeout(function() {
+                $scope.itemAddedTooltipOpen = false;
+            }, 3000);
+        });
+        $scope.$on('sp_loading_indicator', function(e, value) {
+            $scope.loadingIndicator = value;
+        });
+        $scope.toggleCart = function() {
+            $timeout.cancel(cancelTooltipPromise);
+            $scope.itemAddedTooltipOpen = false;
+            $timeout(function() {
+                $("#cart-dropdown").dropdown("toggle");
+            });
+        };
+        $scope.toggleTours = function() {
+            var action = $scope.toursTooltipEnabled ? 'disable' : 'enable';
+            $scope.toursTooltipEnabled = $scope.toursTooltipEnabled ? false : true;
+            $('[data-toggle-second="tooltip"]').tooltip(action);
+            if (action == 'disable')
+                $('[data-toggle-second="tooltip"]').tooltip('hide');
+        };
+        $scope.onToursItemBlur = function() {
+            $('[data-toggle-second="tooltip"]').tooltip('enable');
+            $scope.toursTooltipEnabled = true;
+        };
+        // PRB1108244: visibleItems array is used to improve keyboard nav
+        // in menu, refresh it as needed
+        $scope.$watch('data.menu.items', function() {
+            $scope.visibleItems = [];
+            if ($scope.data.menu.items) {
+                for (var i in $scope.data.menu.items) {
+                    var item = $scope.data.menu.items[i];
+                    if (item.items || (item.scriptedItems && item.scriptedItems.count != 0))
+                        $scope.visibleItems.push(item);
+                }
+            }
+        }, true);
+        $scope.$on('sp-menu-update-tours', function(event, tours) {
+            $scope.data.showTours = $scope.data.showTours && !spUtil.isMobile();
+            if ($scope.data.showTours === false) {
+                $scope.data.guidedTours = null;
+                return;
+            }
+            var guidedToursLabel = 'Guided Tours';
+            $scope.data.guidedTours = {
+                label: guidedToursLabel,
+                collection: []
+            };
+            if (tours.length > 0) {
+                $scope.data.guidedTours.collection = tours.map(function(t) {
+                    return {
+                        title: t.name,
+                        id: t.id,
+                        clicked: function() {
+                            spGtd.launch(t.id);
+                        }
+                    };
+                });
+            }
+        });
+        // Get list of record watchers
+        var record_watchers = [];
+        if ($scope.data.menu.items) {
+            for (var i in $scope.data.menu.items) {
+                var item = $scope.data.menu.items[i];
+                if (item.type == 'scripted') {
+                    if (item.scriptedItems.record_watchers)
+                        record_watchers = record_watchers.concat(item.scriptedItems.record_watchers);
+                }
+                if (item.type == 'filtered') {
+                    record_watchers.push({
+                        'table': item.table,
+                        'filter': item.filter
+                    });
+                }
+            }
+        }
+        // Init record watchers
+        for (var y in record_watchers) {
+            var watcher = record_watchers[y];
+            spUtil.recordWatch($scope, watcher.table, watcher.filter);
+        }
+        $rootScope.$broadcast('sp-header-loaded');
+    };]]></client_script>
         <controller_as>c</controller_as>
         <css>.header-loader {
 	float: left;
@@ -228,7 +231,7 @@
         <has_preview>false</has_preview>
         <id/>
         <internal>false</internal>
-        <link><![CDATA[function(scope, elem) {
+        <link><![CDATA[(function(scope, elem) {
 	$(elem).on('keydown','.header-menu-item',function(e){
 		var target = e.target;
 		if (target.localName == 'a') {
@@ -261,7 +264,7 @@
 		setTimeout(function(){
 		$('[data-toggle-second="tooltip"]').tooltip();
 	});
-	}]]></link>
+	});]]></link>
         <name>Header Menu Hospital</name>
         <option_schema/>
         <public>true</public>
@@ -299,14 +302,14 @@
         <sys_created_by>rodrigo.alvarez</sys_created_by>
         <sys_created_on>2022-11-16 18:27:27</sys_created_on>
         <sys_id>48a43a84871b9d500277a9f83cbb3556</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Header Menu Hospital</sys_name>
         <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
         <sys_update_name>sp_widget_48a43a84871b9d500277a9f83cbb3556</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-28 18:39:08</sys_updated_on>
+        <sys_updated_by>daniel.lamas</sys_updated_by>
+        <sys_updated_on>2023-01-19 16:10:44</sys_updated_on>
         <template><![CDATA[<ul class="nav navbar-nav" aria-label="${Header}" role="menubar">
   <div class="header-loader" ng-class="{'invisible': !loadingIndicator}">
     <div class="hidden-xs sp-loading-indicator la-sm">

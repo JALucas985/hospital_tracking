@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</catalog_item>
+        <catalog_variable>IO:f887c2c487e461100277a9f83cbb35f6</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-18 21:05:33</sys_created_on>
+        <sys_id>d6f4bb9487eca1100277a9f83cbb350c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d6f4bb9487eca1100277a9f83cbb350c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'name' mandatory &amp; visible depending on 'Previous_patient'">1af47b9487eca1100277a9f83cbb35fa</ui_policy>
+        <variable>name</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>catalog_ui_policy_action_d6f4bb9487eca1100277a9f83cbb350c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</catalog_item><catalog_variable>IO:f887c2c487e461100277a9f83cbb35f6</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>jorge.lucas</sys_created_by><sys_created_on>2023-01-18 21:05:33</sys_created_on><sys_id>d6f4bb9487eca1100277a9f83cbb350c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>name</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>catalog_ui_policy_action_d6f4bb9487eca1100277a9f83cbb350c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-01-18 21:08:39</sys_updated_on><table/><ui_policy display_value="Make 'name' mandatory &amp; visible depending on 'Previous_patient'">1af47b9487eca1100277a9f83cbb35fa</ui_policy><variable>name</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1025200006</payload_hash>
+        <record_name>name</record_name>
+        <reverted_from/>
+        <source>29a0b4f687b719100277a9f83cbb353e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:08:39</sys_created_on>
+        <sys_id>2ba57fd487eca1100277a9f83cbb3569</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c6b6610c0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:39</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>afa57fd473eca110dd69e653a6799f68</update_guid>
+        <update_guid_history>afa57fd473eca110dd69e653a6799f68:-1025200006,def4bb9453eca110b71a8708f5c9d916:1214607837,92f4bb9483eca1102def55dc6be65910:-1025200006</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="name">7fd7bb9887eca1100277a9f83cbb3523</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:18:14</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>368a0db20e0b49848d6c74de5e7e43a4</sys_id>
+        <sys_metadata>d6f4bb9487eca1100277a9f83cbb350c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_d6f4bb9487eca1100277a9f83cbb350c</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_d6f4bb9487eca1100277a9f83cbb350c">2ba57fd487eca1100277a9f83cbb3569</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:18:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

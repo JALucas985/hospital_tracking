@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</catalog_item>
+        <catalog_variable>IO:2083f6dc8768a1100277a9f83cbb3578</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2023-01-18 21:05:34</sys_created_on>
+        <sys_id>92f4bb9487eca1100277a9f83cbb354f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>hospital_new_patient_general_data</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_92f4bb9487eca1100277a9f83cbb354f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'hospital_new_patient_general_data' mandatory &amp; visible depending on 'Previous_patient'">96f4bb9487eca1100277a9f83cbb354b</ui_policy>
+        <variable>hospital_new_patient_general_data</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>catalog_ui_policy_action_92f4bb9487eca1100277a9f83cbb354f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Appointment Request">a501ca0087e461100277a9f83cbb359a</catalog_item><catalog_variable>IO:2083f6dc8768a1100277a9f83cbb3578</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>jorge.lucas</sys_created_by><sys_created_on>2023-01-18 21:05:34</sys_created_on><sys_id>92f4bb9487eca1100277a9f83cbb354f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>hospital_new_patient_general_data</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>catalog_ui_policy_action_92f4bb9487eca1100277a9f83cbb354f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-01-18 21:08:39</sys_updated_on><table/><ui_policy display_value="Make 'hospital_new_patient_general_data' mandatory &amp; visible depending on 'Previous_patient'">96f4bb9487eca1100277a9f83cbb354b</ui_policy><variable>hospital_new_patient_general_data</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1768606091</payload_hash>
+        <record_name>hospital_new_patient_general_data</record_name>
+        <reverted_from/>
+        <source>29a0b4f687b719100277a9f83cbb353e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:08:39</sys_created_on>
+        <sys_id>a3a57fd487eca1100277a9f83cbb3577</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c6b661990000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:08:39</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>2ba57fd483eca1102e69d5f530d2f876</update_guid>
+        <update_guid_history>2ba57fd483eca1102e69d5f530d2f876:-1768606091,9ef4bb947feca1104563ef0652a4ca63:-225529110,d6f4bb94d2eca110e5e119341da8ae5e:-1768606091</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="hospital_new_patient_general_data">c0e7bb9887eca1100277a9f83cbb35d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-18 21:18:14</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>21cea6691bdf4b98871d33ec1063d464</sys_id>
+        <sys_metadata>92f4bb9487eca1100277a9f83cbb354f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hospital_new_patient_general_data</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_92f4bb9487eca1100277a9f83cbb354f</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_92f4bb9487eca1100277a9f83cbb354f">a3a57fd487eca1100277a9f83cbb3577</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-18 21:18:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

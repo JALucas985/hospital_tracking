@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">77ba359c876b1d100277a9f83cbb35ce</sp_column>
+        <sp_widget display_value="Change Password">cbf1b907c332120071d07bfaa2d3ae79</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 15:52:12</sys_created_on>
+        <sys_id>484deed48768a1100277a9f83cbb3568</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sp_instance_484deed48768a1100277a9f83cbb3568</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-18 15:52:12</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=484deed48768a1100277a9f83cbb3568"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sp_instance_484deed48768a1100277a9f83cbb3568</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">77ba359c876b1d100277a9f83cbb35ce</sp_column><sp_widget display_value="Change Password">cbf1b907c332120071d07bfaa2d3ae79</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-18 15:52:12</sys_created_on><sys_id>484deed48768a1100277a9f83cbb3568</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sp_instance_484deed48768a1100277a9f83cbb3568</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-18 15:52:12</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=484deed48768a1100277a9f83cbb3568"/></record_update>]]></payload>
+        <payload_hash>-712272819</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ba9bfcff87b31d100277a9f83cbb351e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 15:52:12</sys_created_on>
+        <sys_id>444deed48768a1100277a9f83cbb356b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185c594a8560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-18 15:52:12</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>8c4deed4b068a1101df97e9144f5156a</update_guid>
+        <update_guid_history>8c4deed4b068a1101df97e9144f5156a:-712272819</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3e50c35c87a8a1100277a9f83cbb354c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 17:15:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>02c15cdb87184816a99c643557a86d64</sys_id>
+        <sys_metadata>484deed48768a1100277a9f83cbb3568</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sp_instance_484deed48768a1100277a9f83cbb3568</sys_update_name>
+        <sys_update_version display_value="sp_instance_484deed48768a1100277a9f83cbb3568">444deed48768a1100277a9f83cbb356b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-18 17:15:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

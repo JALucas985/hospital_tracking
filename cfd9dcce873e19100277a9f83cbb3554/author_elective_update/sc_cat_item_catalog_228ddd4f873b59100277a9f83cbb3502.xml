@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Schedule an Appoinment">672d194f873b59100277a9f83cbb35a8</sc_cat_item>
+        <sc_catalog display_value="Consumer Service">0f910a2ac3112200b12d9f2974d3ae3c</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2022-12-20 16:20:08</sys_created_on>
+        <sys_id>228ddd4f873b59100277a9f83cbb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consumer Service.Schedule an Appoinment</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_228ddd4f873b59100277a9f83cbb3502</sys_update_name>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-12-20 16:20:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</application>
+        <file_path/>
+        <instance_id>2348f585db0637842f68c59705961943</instance_id>
+        <instance_name>dev87034</instance_name>
+        <name>sc_cat_item_catalog_228ddd4f873b59100277a9f83cbb3502</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Schedule an Appoinment">672d194f873b59100277a9f83cbb35a8</sc_cat_item><sc_catalog display_value="Consumer Service">0f910a2ac3112200b12d9f2974d3ae3c</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>jorge.lucas</sys_created_by><sys_created_on>2022-12-20 16:20:08</sys_created_on><sys_id>228ddd4f873b59100277a9f83cbb3502</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Consumer Service.Schedule an Appoinment</sys_name><sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package><sys_policy/><sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope><sys_update_name>sc_cat_item_catalog_228ddd4f873b59100277a9f83cbb3502</sys_update_name><sys_updated_by>jorge.lucas</sys_updated_by><sys_updated_on>2022-12-20 16:20:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-861626357</payload_hash>
+        <record_name>Consumer Service.Schedule an Appoinment</record_name>
+        <reverted_from/>
+        <source>9fd1bc3a87b719100277a9f83cbb350c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2022-12-20 16:20:08</sys_created_on>
+        <sys_id>6a8ddd4f873b59100277a9f83cbb3505</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1853055cf920000001</sys_recorded_at>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-12-20 16:20:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ee8ddd4f123b59108d5910fa5219c604</update_guid>
+        <update_guid_history>ee8ddd4f123b59108d5910fa5219c604:-861626357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Consumer Service.Schedule an Appoinment">ba8ddd4f873b59100277a9f83cbb350f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jorge.lucas</sys_created_by>
+        <sys_created_on>2022-12-20 16:20:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0338890384084d5180212625eccfead1</sys_id>
+        <sys_metadata>228ddd4f873b59100277a9f83cbb3502</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consumer Service.Schedule an Appoinment</sys_name>
+        <sys_package display_value="Hospital_Project" source="x_886892_hospital">cfd9dcce873e19100277a9f83cbb3554</sys_package>
+        <sys_parent display_value="Schedule an Appoinment">672d194f873b59100277a9f83cbb35a8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hospital_Project">cfd9dcce873e19100277a9f83cbb3554</sys_scope>
+        <sys_scope_delete display_value="">de9c59ef11e94650a13ad898ecc1dee9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_228ddd4f873b59100277a9f83cbb3502</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_228ddd4f873b59100277a9f83cbb3502">6a8ddd4f873b59100277a9f83cbb3505</sys_update_version>
+        <sys_updated_by>jorge.lucas</sys_updated_by>
+        <sys_updated_on>2022-12-20 16:20:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
